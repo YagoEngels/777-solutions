@@ -1,4 +1,5 @@
 Mogelijkse monitoring software 
 
-- uptime kuma (gemakkelijk) 
-- prometheus (professioneel)
+- uptime kuma (gemakkelijk) (proberen door yago)
+
+- prometheus (professioneel) (proberen door tibo)
