@@ -1,0 +1,3 @@
+inlog op de cli 
+host : root
+ps : admin123
