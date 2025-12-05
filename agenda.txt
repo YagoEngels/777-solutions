@@ -1,0 +1,1 @@
+ - 10/12 proberen monitor software op vm + punt op gemakkelijkheid 
