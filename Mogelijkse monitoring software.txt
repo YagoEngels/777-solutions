@@ -1,0 +1,4 @@
+Mogelijkse monitoring software 
+
+- uptime kuma (gemakkelijk) 
+- prometheus (professioneel)
