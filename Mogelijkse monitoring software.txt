@@ -3,3 +3,5 @@ Mogelijkse monitoring software
 - uptime kuma (gemakkelijk) (proberen door yago)
 
 - prometheus (professioneel) (proberen door tibo)
+
+- nagios ( als uptime niet denderend is)
