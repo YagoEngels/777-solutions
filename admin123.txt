@@ -1,3 +1,9 @@
 inlog op de cli 
 host : root
 ps : admin123
+
+
+monitoring server
+name: monitor
+login: user
+ps: user
