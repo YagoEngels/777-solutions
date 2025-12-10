@@ -7,3 +7,5 @@ monitoring server
 name: monitor
 login: user
 ps: user
+
+192.168.7.x publiek ip 
