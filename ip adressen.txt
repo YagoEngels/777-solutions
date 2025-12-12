@@ -2,4 +2,5 @@ proxmox: 192.168.7.2/24
 default gateway: 192.168.7.254
 tibo: 192.168.7.13 
 switch vlan interface 7: 192.168.7.5
+switch vlan interface 99: 192.168.7.207
 yago: 192.168.7.77
